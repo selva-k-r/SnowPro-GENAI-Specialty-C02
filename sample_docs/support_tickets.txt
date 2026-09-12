@@ -1,0 +1,34 @@
+SYNTHETIC SAMPLE - fictional support tickets for training purposes only.
+
+TICKET-4471 | 2026-03-02 | Priority: High
+Customer: Meridian Grain Co.
+The March invoice from Kestrel shows six hours of detention charges we do not
+recognise. Our gate logs show the driver arrived 40 minutes outside the booking
+window, which under clause 3 of the haulage schedule is the carrier's cost, not
+ours. Please raise a dispute before the net-30 date. Frustrated that this is the
+third month running.
+
+TICKET-4488 | 2026-03-06 | Priority: Low
+Customer: Harbourview Analytics, Inc.
+Quick question rather than a problem - can we get the quarterly usage export as
+CSV instead of the dashboard PDF? The PDF is fine, we just want to load it into
+our own warehouse. No urgency at all, whenever suits.
+
+TICKET-4502 | 2026-03-11 | Priority: Critical
+Customer: Tallgrass Supply Partners
+Racking delivery arrived without the safety netting and the delivery note says
+"partial shipment to follow" with no date. We have installers on site being paid
+to stand around. This is costing us real money every day it slips. Need a firm
+date today.
+
+TICKET-4519 | 2026-03-18 | Priority: Medium
+Customer: Meridian Grain Co.
+Renewal question. Our MSA says sixty days notice before the end of the current
+term. We think the term ends 31 March 2028 but the signature page reads 1 April
+2026 as the effective date, so we want to confirm the exact notice deadline
+before we diary it.
+
+TICKET-4533 | 2026-03-25 | Priority: Low
+Customer: Harbourview Analytics, Inc.
+Just wanted to say the new reconciliation report saved our finance team about two
+days of work this month close. Whoever built it, pass on our thanks.

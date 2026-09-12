@@ -1,0 +1,33 @@
+# Snowflake connection config — never commit credentials
+.snowflake/
+connections.toml
+*.p8
+*.pem
+
+# Editor / tooling
+.vscode/
+.idea/
+.temp/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private study material and third-party PDFs.
+# The official study guide is Snowflake's document — download it from
+# snowflake.com/certifications rather than committing it here.
+uploads/
+*.ipynb.orig
+*.ipynb.precombine
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private study artefacts kept locally, not published
+VERIFICATION_CHANGELOG.md
+C02 Study plan/
+demo_py_file.py
